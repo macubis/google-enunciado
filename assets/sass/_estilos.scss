@@ -1,0 +1,108 @@
+*{
+	margin:0;
+	padding:0;
+    
+	font-family: 'Raleway', sans-serif;
+}
+.navbar-default{
+	background-color:transparent;
+	border-color:transparent;
+    padding: 40px 0px 0px 0px;
+}
+
+.navbar-nav {
+   width: 100%;
+   text-align: center;
+    li {
+     float: none;
+     display: inline-block;
+     color:white;
+   }
+}
+
+.logo-nav{
+	margin-left: 140%;
+}
+
+.search{
+	position: relative;
+    top: -130px;
+}
+
+.lineaazul{
+    width: 84%;
+    margin-left: 8%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 3px;
+	background-color:$azul;
+}
+
+
+.fotogldesign{
+	width: 84%;
+}
+.fecha{
+	font-weight:800;
+	color:$gris_claro_fecha;
+}
+.descrip{
+	width: 85%;
+    font-weight: 500;
+    margin-top: 5%;
+
+}
+
+.azul{
+	color:$azul;
+	font-weight:900;
+}
+
+
+.cuadrito{
+background-color: #F1F3F4;
+    width: 100%;
+    height: 85px;
+    margin-top: 33px;
+}
+.txt-cuadrito{
+    font-size: 18px;
+    font-weight: 100;
+    padding: 17px;
+}
+.azul2{
+	color: #4285f4;
+	font-weight: 100;
+    font-size: 18px;
+    padding-left: 19px;
+    margin-top: -22px;
+}
+.img-pequenia{
+	position: relative;
+    bottom: 70px;
+    right: 35px;
+}
+
+/* SECCION TRES */
+.img-varias{
+	width:100%;
+}
+
+/* FOOTER */
+
+.footer-title{
+	font-weight: 600;
+}
+
+.lineagris{
+	background-color: #c3bfbf;
+    width: 113%;
+    height: 2px;
+    margin-left: -5%;
+}
+
+.privacy{
+	margin-top: 32px;
+    font-weight: 400;
+    color:$gris-texto;
+}
